@@ -1,0 +1,51 @@
+html{
+    box-sizing: border-size;
+}
+.Form_Calculator{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+}
+.container {
+  font-family: "Roboto", sans-serif;
+  max-width: 600px;
+  background-color: #DFDFDF;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  margin: auto;
+  border-radius: 20px;
+  }
+.calculator__title{
+  font-size: 25px;
+}
+
+.input{
+  background-color: #fff;
+  padding: 12px;
+  width: 70%;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
+.form__input{
+  margin-bottom: 30px;
+}
+.button {
+    border-radius: 7px;
+    background-color: #85F593;
+    padding: 12px 33px;
+    font-size: 16px;
+    font-weight: 800;
+  transition: 0.5s linear;
+}
+.button:hover{
+background-color: #29A538;
+}
+.result{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
